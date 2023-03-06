@@ -1,0 +1,15 @@
+C:\workspace\DIO\csharp-exemples\PraticaCsharp\bin\Debug\net7.0\PraticaCsharp.exe
+C:\workspace\DIO\csharp-exemples\PraticaCsharp\bin\Debug\net7.0\PraticaCsharp.deps.json
+C:\workspace\DIO\csharp-exemples\PraticaCsharp\bin\Debug\net7.0\PraticaCsharp.runtimeconfig.json
+C:\workspace\DIO\csharp-exemples\PraticaCsharp\bin\Debug\net7.0\PraticaCsharp.dll
+C:\workspace\DIO\csharp-exemples\PraticaCsharp\bin\Debug\net7.0\PraticaCsharp.pdb
+C:\workspace\DIO\csharp-exemples\PraticaCsharp\obj\Debug\net7.0\PraticaCsharp.csproj.AssemblyReference.cache
+C:\workspace\DIO\csharp-exemples\PraticaCsharp\obj\Debug\net7.0\PraticaCsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\DIO\csharp-exemples\PraticaCsharp\obj\Debug\net7.0\PraticaCsharp.AssemblyInfoInputs.cache
+C:\workspace\DIO\csharp-exemples\PraticaCsharp\obj\Debug\net7.0\PraticaCsharp.AssemblyInfo.cs
+C:\workspace\DIO\csharp-exemples\PraticaCsharp\obj\Debug\net7.0\PraticaCsharp.csproj.CoreCompileInputs.cache
+C:\workspace\DIO\csharp-exemples\PraticaCsharp\obj\Debug\net7.0\PraticaCsharp.dll
+C:\workspace\DIO\csharp-exemples\PraticaCsharp\obj\Debug\net7.0\refint\PraticaCsharp.dll
+C:\workspace\DIO\csharp-exemples\PraticaCsharp\obj\Debug\net7.0\PraticaCsharp.pdb
+C:\workspace\DIO\csharp-exemples\PraticaCsharp\obj\Debug\net7.0\PraticaCsharp.genruntimeconfig.cache
+C:\workspace\DIO\csharp-exemples\PraticaCsharp\obj\Debug\net7.0\ref\PraticaCsharp.dll
